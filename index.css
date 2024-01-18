@@ -1,0 +1,88 @@
+ 
+
+	
+
+ div {text-align: center;
+
+ }
+
+ h1 {text-align: center;
+ 	
+
+ }
+
+ div {text-align: center;
+      color: white;
+ }
+
+ h2 {text-align: center;
+     color: black;
+
+
+ }
+
+h3 {
+	color: white;
+
+
+
+}
+
+#aboutit {
+background-color: darkred;
+
+}
+
+
+
+
+#PHOTOGALLERY {
+background-color: yellow;
+border: 10px dashed white
+
+}
+
+.about {
+background-color: black;
+width: 20%;
+border: 10px solid yellow;
+display: inline-block;
+margin: 5%;
+
+
+}
+
+.on {
+background-color: black;
+width: 20%;
+border: 10px solid yellow;
+display: inline-block;
+margin: 5%;
+
+
+}
+
+.reference {
+text-emphasis-color: red;
+
+}
+
+.this {
+background-color: black;
+width: 20%;
+border: 10px solid yellow;
+display: inline-block;
+margin: 5%;
+
+
+}
+
+.pics{
+  display: inline-block;
+  margin-top: 7px;
+  margin-right:7% ;
+  margin-bottom:7px ;
+  margin-left:7% ;
+}
+
+
